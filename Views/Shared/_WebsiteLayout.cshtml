@@ -1,0 +1,117 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+    <link href="~/css/navbar.css" rel="stylesheet" />
+    <link href="~/css/responsive.css" rel="stylesheet" />
+    <link href="~/css/style.css" rel="stylesheet" />
+    <link href="~/css/hover-min.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+   @*  <link href="~/css/style.css" rel="stylesheet" /> *@
+    <style>
+        @@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+    </style>
+    @RenderSection("head", false)
+    <title>@ViewBag.Title - ShopZone</title>
+</head>
+<body style="background-color:#ede4e7">
+    <!--navbar-->
+    <div class="navbarr">
+        <div class="logoo">
+            <div class="logoo-img">
+                <img src="~/images/shopzone logo.png" alt="">
+            </div>
+            <h3>ShopZone</h3>
+        </div>
+        <div class="searchh">
+            <input type="search" placeholder="Search Here...">
+            <i class="fa-solid fa-magnifying-glass"></i>
+        </div>
+        <div class="navbar-itemm">
+            <a asp-action="Index"><i class="fa fa-home"></i> Home</a>
+            <a href="#"><i class="fa fa-shopping-cart"></i> Cart</a>
+            <a href="#"><i class="fa fa-heart"></i> Wishlist</a>
+            @if (TempData["signup"] != null)
+            {
+                @if (TempData["signup"].ToString() == "success")
+                {
+                    <a asp-action="Profile" ><i class="fa fa-user"></i> Profile</a>
+                }
+                else
+                {
+                    <a asp-action="Login" ><i class="fa fa-user"></i> Login</a>
+                }
+            }
+            else
+            {
+                <a asp-action="Login" ><i class="fa fa-user"></i> Login</a>
+            }   
+            <a href="#"><i class="fa fa-bars"></i></a>
+        </div>
+    </div>
+    <div class="categories">
+        <a asp-action="AdminLogin"><i class="fa fa-user"></i> Admin Panel</a>
+        @RenderSection("categories", false)
+    </div>
+
+    <!--main section-->
+   <div class="main-section" style="margin-top:60px;background-color:white">
+        @RenderBody()
+   </div>
+
+    <!--footer section-->
+    <footer>
+        <div class="footer-container container">
+            <div class="content_1">
+                <img src="https://i.postimg.cc/htGyQ4JB/footer-logo.png" alt="logo">
+                <p>The customer is at the heart of our<br>unique business model, which includes<br>design.</p>
+                <img src="https://i.postimg.cc/Nj9dgJ98/cards.png" alt="cards">
+            </div>
+            <div class="content_2">
+                <h4>SHOPPING</h4>
+                <a asp-action="MensCollection">Men's Store</a>
+                <a asp-action="ShoesCollection">Trending Shoes</a>
+                <a href="#sellers">Accessories</a>
+                <a href="#sellers">Sale</a>
+            </div>
+            <div class="content_3">
+                <h4>SHOPPING</h4>
+                <a href="./contact.html">Contact Us</a>
+                <a href="https://payment-method-sb.netlify.app/" target="_blank">Payment Method</a>
+                <a href="https://delivery-status-sb.netlify.app/" target="_blank">Delivery</a>
+                <a href="https://codepen.io/sandeshbodake/full/Jexxrv" target="_blank">Return and Exchange</a>
+            </div>
+            <div class="content_4">
+                <h4>NEWLETTER</h4>
+                <p>Be the first to know about new<br>arrivals, discount, sales & promos!</p>
+                <div class="f-mail">
+                    <input type="email" placeholder="Your Email">
+                    <i class='bx bx-envelope'></i>
+                    <button>Submit</button>
+                </div>
+                <hr>
+            </div>
+        </div>
+        <div class="f-design">
+            <div class="f-design-txt container">
+                <p>&copy; Mohammad Ammar</p>
+            </div>
+        </div>
+    </footer>
+
+
+    @RenderSection("script",false)
+   @*  <script src="~/js/script.js"></script> *@
+   <script>
+        document.getElementsByClassName("fa")[4].addEventListener("click", function () {
+            document.getElementsByClassName("categories")[0].classList.toggle("showcategories");
+        });
+   </script>
+</body>
+</html>

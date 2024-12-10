@@ -1,0 +1,192 @@
+﻿@model Ecommerce.Models.order
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    // Layout = "_AdminLayout";
+}
+<html>
+    <head>
+        <title>Invoice</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+     
+
+        .main {
+            height: 100vh;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content:center;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .main-boxx {
+            height: auto;
+            width: 40%;
+            border: 1px solid black;
+            box-shadow: 2px 2px 7px 2px;
+        }
+
+        .main-box {
+            display: flex;
+        }
+
+        .headingg {
+            height: 60px;
+            width: 100%;
+            margin-top: 20px;
+            display: flex;
+            align-items: center;
+            /* padding-right: 10px; */
+            justify-content: space-between;
+        }
+
+            .headingg h1 {
+                width: 50%;
+                background-color: black;
+                color: white;
+                padding: 10px;
+            }
+
+            .headingg h3 {
+                background-color: gray;
+                padding: 10px;
+            }
+
+        .h5 {
+            padding: 10px 30px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .product-details {
+            height: 40px;
+            width: 100%;
+            background-color: black;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 10px;
+        }
+
+        .product-details1 {
+            height: 40px;
+            width: 100%;
+            /* background-color: black;
+                color: white; */
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 10px;
+            border-bottom: 1PX solid black;
+        }
+
+        .sub-total {
+            width: 100%;
+            margin-top: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: column;
+        }
+
+        .total {
+            width: 35%;
+            padding: 10px;
+            margin-left: 65%;
+            display: flex;
+            justify-content: space-between;
+            gap: 10px;
+        }
+
+        .bottom {
+            padding: 20px;
+        }
+
+        .bottom2 {
+            height: 30px;
+            width: 100%;
+            background-color: black;
+        }
+    </style>
+    
+    </head>
+    <body>
+    <div class="main">
+
+
+        <div class="main-boxx">
+            <h3>DATE: </h3>
+            <div class="main-box">
+
+                <div class="headingg">
+                    <h1>INVOICE</h1>
+                    <h3>INVOICE # </h3>
+                </div>
+            </div>
+
+            <div class="h5">
+                <h3>ShopZone</h3>
+                <h5>CLINT NAME: @Model.name</h5>
+                <h4>MOBILE NO: @Model.phone</h4>
+                <h4>ADDRESS: @Model.address1</h4>
+                <h4>ADDRESS: @Model.address2</h4>
+            </div>
+            <div class="product-details">
+                <h4>PRODUCT</h4>
+                <h4>PRICE</h4>
+                <h4>QTY</h4>
+                <h4>TOTAL</h4>
+            </div>
+            <div class="product-details1">
+                <h6>@Model.productname</h6>
+                <h6>@Model.productprice</h6>
+                <h6>1</h6>
+                <h6>@Model.productprice</h6>
+            </div>
+            <div class="sub-total">
+                <div class="total">
+                    <h4>SUB TOTAL</h4>
+                    <P> @Model.productprice</P>
+                </div>
+                <div class="total">
+                    <h4>TAX</h4>
+                    <P>0.00%</P>
+                </div>
+                <div class="total">
+                    <h4>TOTAL</h4>
+                    <P>@Model.productprice</P>
+                </div>
+                <hr />
+                <div class="total">
+                    <h4>PAYMENT METHOD</h4>
+                    <P>@Model.paymentmode</P>
+                </div>
+                <div class="total">
+                    <h4>PAYMENT STATUS</h4>
+                    <P>@Model.paymentstatus</P>
+                </div>
+            </div>
+
+
+
+            <div class="bottom">
+                <h3>TEARMS & cONDITION:</h3>
+                <P style="font-size: 12px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi minus dolorem quis non ullam libero est aperiam, velit magnam voluptates!</P>
+            </div>
+            <div class="bottom2">
+            </div>
+        </div>
+
+    </div>
+
+
+    </body>
+</html>
+

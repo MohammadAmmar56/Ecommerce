@@ -1,0 +1,82 @@
+﻿@model Ecommerce.Models.signup
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "_WebsiteLayout";
+}
+@section head{
+    <link href="~/css/profile.css" rel="stylesheet" />
+    <style>
+        .cahnge-pass{
+            background-color:blue;
+            padding:5px 10px;
+        }
+    </style>
+}
+<div class="sidenav">
+    <div class="profile">
+        <i class="fa-solid fa-user"></i>
+
+        <div class="name">
+            @Model.fullname
+        </div>
+    </div>
+    <hr>
+
+    <div class="sidenav-url">
+        <div class="url">
+            <a href="#profile" class="active"><i class="fa-solid fa-user"></i> Profile</a>
+            <hr align="center">
+        </div>
+        <div class="url">
+            <a href="#settings"><i class="fa-solid fa-box"></i> Manage Order</a>
+            <hr align="center">
+        </div>
+        <div class="url">
+            <a href="#settings"><i class="fa-solid fa-location-dot"></i> Manage Address</a>
+            <hr align="center">
+        </div>
+        <div class="url">
+            <a asp-action="Logout"><i class="fa-solid fa-right-from-bracket"></i> Logout</a>
+            <hr align="center">
+        </div>
+
+    </div>
+</div>
+<!-- End -->
+<!-- Main -->
+<div class="main">
+    <h2>PERSONAL INFORMATION!</h2>
+    <div class="card">
+        <div class="card-body">
+            <a asp-action="EditUser" asp-route-id="@Model.id"><i class="fa fa-pen fa-xs edit"></i></a>
+            <table>
+                <tbody>
+                    <tr>
+                        <td>Name</td>
+                        <td>:</td>
+                        <td>@Model.fullname</td>
+                    </tr>
+                    <tr>
+                        <td>Email</td>
+                        <td>:</td>
+                        <td>@Model.email</td>
+                    </tr>
+                    <tr>
+                        <td>Mobile no</td>
+                        <td>:</td>
+                        <td>@Model.mobile</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td><a class="cahnge-pass" style="color:white;border-radius:5px;" asp-action="ChangePassword">Change Password</a></td>
+                    </tr>
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<!-- End -->

@@ -1,0 +1,79 @@
+﻿@model Ecommerce.Models.signup
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "_WebsiteLayout";
+}
+@section head {
+    <link href="~/css/profile.css" rel="stylesheet" />
+}
+<div class="sidenav">
+    <div class="profile">
+        <i class="fa-solid fa-user"></i>
+
+        <div class="name">
+              @Model.fullname 
+        </div>
+    </div>
+    <hr>
+
+    <div class="sidenav-url">
+        <div class="url">
+            <a asp-action="Profile" class="active"><i class="fa-solid fa-user"></i> Profile</a>
+            <hr align="center">
+        </div>
+        <div class="url">
+            <a href="#settings"><i class="fa-solid fa-box"></i> Manage Order</a>
+            <hr align="center">
+        </div>
+        <div class="url">
+            <a href="#settings"><i class="fa-solid fa-location-dot"></i> Manage Address</a>
+            <hr align="center">
+        </div>
+        <div class="url">
+            <a asp-action="Logout"><i class="fa-solid fa-right-from-bracket"></i> Logout</a>
+            <hr align="center">
+        </div>
+
+    </div>
+</div>
+<!-- End -->
+<!-- Main -->
+<form method="post" asp-action="EditUser">
+    <input type="hidden" asp-for="id"/>
+   
+
+    <div class="main">
+        <h2>PERSONAL INFORMATION!</h2>
+        <div class="card">
+            <div class="card-body">
+                
+                <table>
+                    <tbody>
+                        <tr>
+                            <td>Name</td>
+                            <td>:</td>
+                            <td><input type="text" asp-for="fullname" /></td>
+                        </tr>
+                        <tr>
+                            <td>Email</td>
+                            <td>:</td>
+                            <td><input type="email" asp-for="email" /></td>
+                        </tr>
+                        <tr>
+                            <td>Mobile no</td>
+                            <td>:</td>
+                            <td><input type="number" asp-for="mobile" /></td>
+                        </tr>
+                        <input type="hidden" asp-for="password" />
+                        <input type="hidden" asp-for="confirmpass" />
+                        <button class="edit" style="color:white;background-color:blue;padding:5px 10px; border:none;outline:none;">Save</button>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <!-- End -->
+
+</form>

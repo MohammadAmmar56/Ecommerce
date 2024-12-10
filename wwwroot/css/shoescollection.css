@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.shoes-header-image{
+    height: 65vh;
+    width: 100%;
+    overflow: hidden;
+    padding: 20px;
+    border-radius: 10px;
+    position: relative;
+    z-index:2;
+}
+.shoes-header-image img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+    position: relative;
+}
+.shoes-header-image h4{
+    position: absolute;
+    top: 45%;
+    left: 7%;
+    padding: 5px;
+    color: black;
+}
+.shoes-header-image a{
+    text-decoration: none;
+    padding: 7px 40px;
+    border-radius: 5px;
+    font-weight: 600;
+    background-color: rgba(30, 143, 255, 0.76);
+    color: white;
+    position: absolute;
+    bottom: 30%;
+    left: 7%;
+}
+
+/* product css  */
+
+.product-shoes-main-card {
+    width: 100%;
+    /* padding: 50px; */
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    gap: 15px;
+    /*   background-color:white;*/
+    margin: 10px 0px;
+}
+.product-shoes-card{
+    height: auto;
+    width: 270px;
+    background-color:white;
+    box-shadow: 2px 2px 7px 2px;
+    overflow:hidden;
+}
+.product-shoes-image{
+    height: 250px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+.product-shoes-image img{
+/*    height: 100%;*/
+    width: 100%;
+    object-fit: cover;
+    position: relative;
+}
+.product-shoes-image p{
+    position: absolute;
+    top: 10px;
+    left: -18px;
+    background-color: rgb(57, 231, 57);
+    padding: 0px 25px;
+    color: white;
+    transform: rotate(-45deg);
+}
+.product-shoes-name{
+    padding: 5px;
+}
+.product-shoes-price{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 10px;
+
+}
+.shoes-pricee {
+    display: flex;
+    gap: 15px;
+}
+.product-shoes-price2{
+    color: rgb(129, 128, 128);
+    text-decoration: line-through;
+}
+.product-shoes-discount{
+    color: rgb(4, 253, 87);
+    display: flex;
+    justify-content: end;
+}
+.shoes-star {
+    padding: 5px;
+    font-size: 15px;
+    color: rgb(50, 236, 50);
+}
+.shoes-buttons {
+    padding: 0px;
+    width: 100%;
+    display: flex;
+    text-align: center;
+}
+.shoes-buy-btn {
+    background-color: rgb(160, 177, 5);
+    color: white;
+    width: 50%;
+    padding: 7px 0px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 5px 0px 0px 0px;
+    transition: ease-in 0.2s;
+}
+    .shoes-buy-btn:hover {
+        background-color: rgb(240, 220, 45);
+    }
+.shoes-cart-btn {
+    background-color: rgb(6, 134, 185);
+    color: white;
+    width: 50%;
+    padding: 7px 0px;
+    font-weight: bold;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 0px 5px 0px 0px;
+    transition: ease-in 0.3s;
+}
+    .shoes-cart-btn:hover {
+        background-color: rgb(3, 179, 106);
+    }
+
+@media (max-width:600px) {
+    .product-shoes-main-card {
+        gap: 7px;
+        flex-wrap: wrap;
+        /* font-size: 15px !important; */
+    }
+    .product-shoes-card {
+        width: 180px;
+    }
+    .product-shoes-image {
+        height: 180px;
+    }
+    .product-shoes-name h3 {
+        font-size: 13px !important;
+    }
+    .product-shoes-price .product-shoes-price1 p, .product-shoes-price2 p, .product-shoes-discount {
+        font-size: 12px;
+    }
+}

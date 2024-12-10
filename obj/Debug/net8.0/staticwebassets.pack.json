@@ -1,0 +1,789 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\category\\8.jpg",
+      "PackagePath": "staticwebassets\\category\\8.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\category\\b-1.jpg",
+      "PackagePath": "staticwebassets\\category\\b-1.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\category\\blaq ash - Copy.webp",
+      "PackagePath": "staticwebassets\\category\\blaq ash - Copy.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\category\\item-1.png",
+      "PackagePath": "staticwebassets\\category\\item-1.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\category\\item-10.png",
+      "PackagePath": "staticwebassets\\category\\item-10.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\category\\noicewatch.jpg",
+      "PackagePath": "staticwebassets\\category\\noicewatch.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\category\\p11.jpg",
+      "PackagePath": "staticwebassets\\category\\p11.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\category\\s24ultra.webp",
+      "PackagePath": "staticwebassets\\category\\s24ultra.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\category\\shopping - Copy.webp",
+      "PackagePath": "staticwebassets\\category\\shopping - Copy.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\category\\tv.webp",
+      "PackagePath": "staticwebassets\\category\\tv.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\collection\\7.jpg",
+      "PackagePath": "staticwebassets\\collection\\7.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\collection\\b-1.jpg",
+      "PackagePath": "staticwebassets\\collection\\b-1.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\collection\\b2.png",
+      "PackagePath": "staticwebassets\\collection\\b2.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\collection\\blog2.jpg",
+      "PackagePath": "staticwebassets\\collection\\blog2.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\collection\\clothing.webp",
+      "PackagePath": "staticwebassets\\collection\\clothing.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\collection\\girl2.jpg",
+      "PackagePath": "staticwebassets\\collection\\girl2.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\collection\\girl3.jpg",
+      "PackagePath": "staticwebassets\\collection\\girl3.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\collection\\jacket-1.jpg",
+      "PackagePath": "staticwebassets\\collection\\jacket-1.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\collection\\man1.jpg",
+      "PackagePath": "staticwebassets\\collection\\man1.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\collection\\man3.jpg",
+      "PackagePath": "staticwebassets\\collection\\man3.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\collection\\topcard2.png",
+      "PackagePath": "staticwebassets\\collection\\topcard2.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\css\\Single.css",
+      "PackagePath": "staticwebassets\\css\\Single.css"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\css\\adminlayout.css",
+      "PackagePath": "staticwebassets\\css\\adminlayout.css"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\css\\hover-min.css",
+      "PackagePath": "staticwebassets\\css\\hover-min.css"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\css\\navbar.css",
+      "PackagePath": "staticwebassets\\css\\navbar.css"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\css\\profile.css",
+      "PackagePath": "staticwebassets\\css\\profile.css"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\css\\registerv.css",
+      "PackagePath": "staticwebassets\\css\\registerv.css"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\css\\shoescollection.css",
+      "PackagePath": "staticwebassets\\css\\shoescollection.css"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\images\\auth-image.png",
+      "PackagePath": "staticwebassets\\images\\auth-image.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\images\\camera.png",
+      "PackagePath": "staticwebassets\\images\\camera.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\images\\cart.png",
+      "PackagePath": "staticwebassets\\images\\cart.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\images\\computer.png",
+      "PackagePath": "staticwebassets\\images\\computer.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\images\\gallery-1.png",
+      "PackagePath": "staticwebassets\\images\\gallery-1.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\images\\gallery-2.png",
+      "PackagePath": "staticwebassets\\images\\gallery-2.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\images\\gallery-3.png",
+      "PackagePath": "staticwebassets\\images\\gallery-3.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\images\\gallery-4.png",
+      "PackagePath": "staticwebassets\\images\\gallery-4.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\images\\gaming.png",
+      "PackagePath": "staticwebassets\\images\\gaming.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\images\\headphone.png",
+      "PackagePath": "staticwebassets\\images\\headphone.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\images\\heart.png",
+      "PackagePath": "staticwebassets\\images\\heart.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\images\\icons8-facebook-94.png",
+      "PackagePath": "staticwebassets\\images\\icons8-facebook-94.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\images\\icons8-google-94.png",
+      "PackagePath": "staticwebassets\\images\\icons8-google-94.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\images\\icons8-twitter-50.png",
+      "PackagePath": "staticwebassets\\images\\icons8-twitter-50.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\images\\item-16.png",
+      "PackagePath": "staticwebassets\\images\\item-16.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\images\\item-4.png",
+      "PackagePath": "staticwebassets\\images\\item-4.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\images\\item-5.png",
+      "PackagePath": "staticwebassets\\images\\item-5.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\images\\item-7.png",
+      "PackagePath": "staticwebassets\\images\\item-7.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\images\\item-8.png",
+      "PackagePath": "staticwebassets\\images\\item-8.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\images\\item-9.png",
+      "PackagePath": "staticwebassets\\images\\item-9.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\images\\login image.png",
+      "PackagePath": "staticwebassets\\images\\login image.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\images\\phone.png",
+      "PackagePath": "staticwebassets\\images\\phone.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\images\\search.png",
+      "PackagePath": "staticwebassets\\images\\search.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\images\\service-1.png",
+      "PackagePath": "staticwebassets\\images\\service-1.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\images\\service-2.png",
+      "PackagePath": "staticwebassets\\images\\service-2.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\images\\service-3.png",
+      "PackagePath": "staticwebassets\\images\\service-3.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\images\\shopzone logo.png",
+      "PackagePath": "staticwebassets\\images\\shopzone logo.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\images\\watch.png",
+      "PackagePath": "staticwebassets\\images\\watch.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\menscollection\\2.jpg",
+      "PackagePath": "staticwebassets\\menscollection\\2.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\menscollection\\blaq ash - Copy.webp",
+      "PackagePath": "staticwebassets\\menscollection\\blaq ash - Copy.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\menscollection\\f6.jpg",
+      "PackagePath": "staticwebassets\\menscollection\\f6.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\menscollection\\jacket-2.jpg",
+      "PackagePath": "staticwebassets\\menscollection\\jacket-2.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\menscollection\\jacket-4.jpg",
+      "PackagePath": "staticwebassets\\menscollection\\jacket-4.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\menscollection\\man3.jpg",
+      "PackagePath": "staticwebassets\\menscollection\\man3.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\menscollection\\mens-banner.jpg",
+      "PackagePath": "staticwebassets\\menscollection\\mens-banner.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\menscollection\\n3.png",
+      "PackagePath": "staticwebassets\\menscollection\\n3.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\menscollection\\n8.png",
+      "PackagePath": "staticwebassets\\menscollection\\n8.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\newarrival\\anarkali.webp",
+      "PackagePath": "staticwebassets\\newarrival\\anarkali.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\newarrival\\blaq ash - Copy.webp",
+      "PackagePath": "staticwebassets\\newarrival\\blaq ash - Copy.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\newarrival\\headphne1.jpg",
+      "PackagePath": "staticwebassets\\newarrival\\headphne1.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\newarrival\\headphone - Copy.webp",
+      "PackagePath": "staticwebassets\\newarrival\\headphone - Copy.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\newarrival\\headphone.webp",
+      "PackagePath": "staticwebassets\\newarrival\\headphone.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\newarrival\\iphone-16-pro.webp",
+      "PackagePath": "staticwebassets\\newarrival\\iphone-16-pro.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\newarrival\\item-1.png",
+      "PackagePath": "staticwebassets\\newarrival\\item-1.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\newarrival\\item-11.png",
+      "PackagePath": "staticwebassets\\newarrival\\item-11.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\newarrival\\jacket-4.jpg",
+      "PackagePath": "staticwebassets\\newarrival\\jacket-4.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\newarrival\\noice.webp",
+      "PackagePath": "staticwebassets\\newarrival\\noice.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\newarrival\\noicewatch.jpg",
+      "PackagePath": "staticwebassets\\newarrival\\noicewatch.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\newarrival\\noicewatch.webp",
+      "PackagePath": "staticwebassets\\newarrival\\noicewatch.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\newarrival\\s24ultra.webp",
+      "PackagePath": "staticwebassets\\newarrival\\s24ultra.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\newarrival\\tv.webp",
+      "PackagePath": "staticwebassets\\newarrival\\tv.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\-original-imagtajhhqsunchz.webp",
+      "PackagePath": "staticwebassets\\product\\-original-imagtajhhqsunchz.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\1.webp",
+      "PackagePath": "staticwebassets\\product\\1.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\2.jpg",
+      "PackagePath": "staticwebassets\\product\\2.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\2.webp",
+      "PackagePath": "staticwebassets\\product\\2.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\Zara.webp",
+      "PackagePath": "staticwebassets\\product\\Zara.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\abros.webp",
+      "PackagePath": "staticwebassets\\product\\abros.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\blaq ash - Copy.webp",
+      "PackagePath": "staticwebassets\\product\\blaq ash - Copy.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\clothing.webp",
+      "PackagePath": "staticwebassets\\product\\clothing.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\f1.jpg",
+      "PackagePath": "staticwebassets\\product\\f1.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\f4.jpg",
+      "PackagePath": "staticwebassets\\product\\f4.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\f5.jpg",
+      "PackagePath": "staticwebassets\\product\\f5.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\f6.jpg",
+      "PackagePath": "staticwebassets\\product\\f6.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\hrx.webp",
+      "PackagePath": "staticwebassets\\product\\hrx.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\item-13.png",
+      "PackagePath": "staticwebassets\\product\\item-13.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\jacket-1.jpg",
+      "PackagePath": "staticwebassets\\product\\jacket-1.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\jacket-3.jpg",
+      "PackagePath": "staticwebassets\\product\\jacket-3.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\man1.jpg",
+      "PackagePath": "staticwebassets\\product\\man1.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\man2.jpg",
+      "PackagePath": "staticwebassets\\product\\man2.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\man3.jpg",
+      "PackagePath": "staticwebassets\\product\\man3.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\n2.jpg",
+      "PackagePath": "staticwebassets\\product\\n2.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\n2.png",
+      "PackagePath": "staticwebassets\\product\\n2.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\n3.png",
+      "PackagePath": "staticwebassets\\product\\n3.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\n4.jpg",
+      "PackagePath": "staticwebassets\\product\\n4.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\n4.png",
+      "PackagePath": "staticwebassets\\product\\n4.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\n6.png",
+      "PackagePath": "staticwebassets\\product\\n6.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\nikee.webp",
+      "PackagePath": "staticwebassets\\product\\nikee.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\redtapp.webp",
+      "PackagePath": "staticwebassets\\product\\redtapp.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\shopping - Copy.webp",
+      "PackagePath": "staticwebassets\\product\\shopping - Copy.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\skchrs.webp",
+      "PackagePath": "staticwebassets\\product\\skchrs.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\sparxs.webp",
+      "PackagePath": "staticwebassets\\product\\sparxs.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\product\\sports-5.jpg",
+      "PackagePath": "staticwebassets\\product\\sports-5.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\shoescollection\\bruton.webp",
+      "PackagePath": "staticwebassets\\shoescollection\\bruton.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\shoescollection\\hrx.webp",
+      "PackagePath": "staticwebassets\\shoescollection\\hrx.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\shoescollection\\item-13.png",
+      "PackagePath": "staticwebassets\\shoescollection\\item-13.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\shoescollection\\nikee.webp",
+      "PackagePath": "staticwebassets\\shoescollection\\nikee.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\shoescollection\\pumaa.webp",
+      "PackagePath": "staticwebassets\\shoescollection\\pumaa.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\shoescollection\\redtap.webp",
+      "PackagePath": "staticwebassets\\shoescollection\\redtap.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\shoescollection\\shopping - Copy.webp",
+      "PackagePath": "staticwebassets\\shoescollection\\shopping - Copy.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\shoescollection\\sky.webp",
+      "PackagePath": "staticwebassets\\shoescollection\\sky.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\shoescollection\\sports-1.jpg",
+      "PackagePath": "staticwebassets\\shoescollection\\sports-1.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\shoescollection\\sports-5.jpg",
+      "PackagePath": "staticwebassets\\shoescollection\\sports-5.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\shoescollection\\women.webp",
+      "PackagePath": "staticwebassets\\shoescollection\\women.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\shoescollection\\zixer.webp",
+      "PackagePath": "staticwebassets\\shoescollection\\zixer.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\slider\\bg.png",
+      "PackagePath": "staticwebassets\\slider\\bg.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\slider\\blog2.jpg",
+      "PackagePath": "staticwebassets\\slider\\blog2.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\slider\\home2.jpg",
+      "PackagePath": "staticwebassets\\slider\\home2.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\slider\\slider1.jpg",
+      "PackagePath": "staticwebassets\\slider\\slider1.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\topsales\\Puma.webp",
+      "PackagePath": "staticwebassets\\topsales\\Puma.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\topsales\\Zara.webp",
+      "PackagePath": "staticwebassets\\topsales\\Zara.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\topsales\\belt.jpg",
+      "PackagePath": "staticwebassets\\topsales\\belt.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\topsales\\blaq ash - Copy.webp",
+      "PackagePath": "staticwebassets\\topsales\\blaq ash - Copy.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\topsales\\blaq ash.webp",
+      "PackagePath": "staticwebassets\\topsales\\blaq ash.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\topsales\\item-10.png",
+      "PackagePath": "staticwebassets\\topsales\\item-10.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\topsales\\item-13.png",
+      "PackagePath": "staticwebassets\\topsales\\item-13.png"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\topsales\\p11.jpg",
+      "PackagePath": "staticwebassets\\topsales\\p11.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\topsales\\retro.webp",
+      "PackagePath": "staticwebassets\\topsales\\retro.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\topsales\\shopping - Copy.webp",
+      "PackagePath": "staticwebassets\\topsales\\shopping - Copy.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\topsales\\shopping.webp",
+      "PackagePath": "staticwebassets\\topsales\\shopping.webp"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\topsales\\sports-5.jpg",
+      "PackagePath": "staticwebassets\\topsales\\sports-5.jpg"
+    },
+    {
+      "Id": "F:\\.Net VS\\Ecommerce\\wwwroot\\topsales\\watch-1.jpg",
+      "PackagePath": "staticwebassets\\topsales\\watch-1.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Ecommerce.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Ecommerce.props",
+      "PackagePath": "build\\Ecommerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Ecommerce.props",
+      "PackagePath": "buildMultiTargeting\\Ecommerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Ecommerce.props",
+      "PackagePath": "buildTransitive\\Ecommerce.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,81 @@
+﻿@model Ecommerce.Models.product
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "_WebsiteLayout";
+}
+@section head{
+    <link href="~/css/registerv.css" rel="stylesheet" />
+}
+<div class="order-main">
+    <section class="order-container">
+        <header>Order Now</header>
+        <form method="post" asp-action="OrderNow" class="order-form">
+            <div class="order-input-box">
+                <label>Full Name</label>
+                <input type="text" name="name" placeholder="Enter full name" required />
+            </div>
+
+            <div class="order-input-box">
+                <label>Email Address</label>
+                <input type="text" name="email" placeholder="Enter email address" required />
+            </div>
+
+            <div class="order-column">
+                <div class="order-input-box">
+                    <label>Phone Number</label>
+                    <input type="number" name="phone" placeholder="Enter phone number" required />
+                </div>
+                
+            </div>
+            <div class="order-input-box address">
+                <label>Address</label>
+                <input type="text" name="address1" placeholder="Enter street address" required />
+                <input type="text" name="address2" placeholder="Enter street address line 2" required />
+                <div class="order-column">
+                    <div class="order-select-box">
+                        <select name="country">
+                            <option hidden>Country</option>
+                            <option>India</option>
+                            <option>America</option>
+                            <option>Japan</option>
+                            <option>India</option>
+                            <option>Nepal</option>
+                        </select>
+                    </div>
+                    <input type="text" name="city" placeholder="Enter your city" required />
+                </div>
+                <div class="order-column">
+                    <input type="text" name="state" placeholder="Enter your state" required />
+                    <input type="number" name="pincode" placeholder="Enter postal code" required />
+                </div>
+            </div>
+            <div class="order-gender-box">
+                <h3>Select Payment Method</h3>
+                <div class="order-gender-option">
+                    <div class="order-gender">
+                        <input type="radio" value="onlinepayment" id="online-payment" name="paymentmode" checked />
+                        <label for="online-payment">Online Payment</label>
+                    </div>
+                    <div class="order-gender">
+                        <input type="radio" value="cod" id="cod" name="paymentmode" />
+                        <label for="cod">C-O-D</label>
+                    </div>
+
+                </div>
+            </div>
+            <div class="order-input-box">
+                <label>Order</label>
+                <input type="text" value="@Model.name" readonly />
+            </div>
+
+            <div class="order-input-box">
+                <label>Order Price</label>
+                <input type="text" value="₹@Model.price1" readonly />
+            </div>
+            <input type="hidden" name="id" value="@Model.id" />
+            <button class="order-button">Order</button>
+        </form>
+    </section>
+</div>

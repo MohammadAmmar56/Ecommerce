@@ -1,0 +1,194 @@
+﻿@model Ecommerce.Models.signup
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- font awesome cdn -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css" integrity="sha512-csw0Ma4oXCAgd/d4nTcpoEoz4nYvvnk21a8VA2h2dzhPAvjbUIK6V3si7/g/HehwdunqqW18RwCJKpD7rL67Xg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <title>Login</title>
+
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        .main {
+            height: 480px;
+            width: 800px;
+            background-color: rgba(170, 162, 162, 0.215);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 30px;
+            border-radius: 0px 90px 0px 90px;
+            border: 2px solid black;
+            background-color: dodgerblue;
+            box-shadow: 0px 3px 0px 0px white;
+        }
+
+        .left-side {
+            height: 100%;
+            width: 400px;
+            /* background-color: rgba(98, 94, 94, 0.144); */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+            .left-side img {
+                height: 100%;
+                width: 100%;
+                background-size: cover;
+                object-fit: cover;
+            }
+
+        .table1 {
+            height: 430px;
+            width: 300px;
+            display: flex;
+            flex-direction: column;
+            gap:5px;
+            align-items: center;
+            justify-content: center;
+            background-color: rgba(104, 103, 103, 0.53);
+            border-radius: 10px;
+        }
+
+            .table1 input {
+                height: 35px;
+                width: 250px;
+                border: none;
+                padding: 10px;
+                border-radius: 3px;
+            }
+
+                .table1 input::placeholder {
+                    padding: 10px;
+                    margin-left: 10px;
+                }
+
+        .icon {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 7px;
+        }
+
+            .icon a {
+                height: 35px;
+                width: 70px;
+                background-color: white;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                border-radius: 50px;
+            }
+
+                .icon a img {
+                    height: 80%;
+                    width: 40%;
+                    background-size: cover;
+                }
+
+                    .icon a img:hover {
+                        padding: 2px 2px;
+                    }
+
+        .sign-in {
+            height: 35px;
+            width: 250px;
+            font-size: 18px;
+            font-weight: 600;
+            color: white;
+            background-color: #fab728;
+            border: none;
+            border-radius: 3px;
+        }
+
+            .sign-in:hover {
+                background-color: rgb(63, 169, 210);
+            }
+
+        .Sign-up {
+            height: 35px;
+            width: 250px;
+            font-size: 18px;
+            font-weight: 600;
+            color: white;
+            background-color: rgb(63, 169, 210);
+            border: none;
+            border-radius: 3px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        body {
+            height: 100vh;
+            width: 100%;
+            /* background-color: black; */
+            /* object-fit: cover; */
+            /* background-color: black; */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: black;
+        }
+
+        .table1 h1 {
+            font-weight: 600;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+
+        a {
+            text-decoration: none;
+            color: black;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="main ">
+       
+        <div class="left-side">
+            <img src="~/images/login image.png">
+        </div>
+        <form asp-action="Signup" method="post">
+            <div class="table1">
+                <h1>Sign-Up</h1><br>
+                <input type="text" asp-for="fullname" placeholder="Enter full name" required>
+                <input type="email" asp-for="email" placeholder="Enter Email ID" required>
+                <input type="number" asp-for="mobile" placeholder="Enter Mobile No." required>
+                <input type="password" asp-for="password" placeholder="Enter Password" required>
+                <h5 style="color:red;">@TempData["signup"]</h5>
+                <input type="password" asp-for="confirmpass" placeholder="Enter Confirm Password" required>
+
+                <button class="sign-in">Sign-up</button>
+@* 
+                <p style="margin-top: 10px;">or continue with</p>
+                <div class="icon">
+                    <a href="#"><img src="~/images/icons8-facebook-94.png" alt=""></a>
+                    <a href="#"><img src="~/images/icons8-google-94.png" alt=""></a>
+                    <a href="#"><img src="~/images/icons8-twitter-50.png" alt=""></a>
+                </div>
+                <a href="#" style="margin-top: 5px; text-decoration:underline; color:blue;">Forgot Password?</a> *@
+                <a asp-action="Login" style="margin-top: 5px; text-decoration:underline; color:white;">Alrady have an account?</a><br>
+                <a asp-action="Login" class="Sign-up">Login</a>
+            </div>
+        </form>
+
+
+    </div>
+
+</body>
+</html>

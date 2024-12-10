@@ -1,0 +1,1023 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\.Net VS\\Ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\website\\paynow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\website\\paynow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\wwwroot\\css\\hover-min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:wwwroot\\css\\hover-min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\website\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\website\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\controllers\\websitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:controllers\\websitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\website\\buynow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\website\\buynow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\website\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\website\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\wwwroot\\css\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:wwwroot\\css\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\website\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\website\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\website\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\website\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\models\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:models\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\website\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\website\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\shared\\_websitelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\shared\\_websitelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\website\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\website\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\website\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\website\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\wwwroot\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:wwwroot\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\admin\\collection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\admin\\collection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\website\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\website\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\website\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\website\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\admin\\invoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\admin\\invoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\admin\\topsales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\admin\\topsales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\admin\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\admin\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\website\\orderplaced.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\website\\orderplaced.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\wwwroot\\css\\registerv.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:wwwroot\\css\\registerv.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\website\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\website\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\admin\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\admin\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\wwwroot\\css\\single.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:wwwroot\\css\\single.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\models\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:models\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\admin\\shoescollection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\admin\\shoescollection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\admin\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\admin\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\wwwroot\\css\\shoescollection.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:wwwroot\\css\\shoescollection.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\website\\menscollection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\website\\menscollection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\admin\\menscollection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\admin\\menscollection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\models\\menscollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:models\\menscollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\website\\shoescollection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\website\\shoescollection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\models\\topsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:models\\topsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\wwwroot\\css\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:wwwroot\\css\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\admin\\newarrival.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\admin\\newarrival.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\models\\shoescollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:models\\shoescollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\models\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:models\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\admin\\slider.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\admin\\slider.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\models\\newarrival.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:models\\newarrival.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\website\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\website\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\wwwroot\\css\\adminlayout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:wwwroot\\css\\adminlayout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\models\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:models\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|f:\\.net vs\\ecommerce\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D234BB06-4CB8-4786-A6C2-696965A9E590}|Ecommerce.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "style.css",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\css\\style.css",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAAADcBAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-12T05:48:18.125Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "responsive.css",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\wwwroot\\css\\responsive.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\responsive.css",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\wwwroot\\css\\responsive.css",
+              "RelativeToolTip": "wwwroot\\css\\responsive.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-12T13:26:19.186Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebsiteController.cs",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Controllers\\WebsiteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WebsiteController.cs",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Controllers\\WebsiteController.cs",
+              "RelativeToolTip": "Controllers\\WebsiteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgBAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:57:54.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T17:15:26.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Website\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Website\\Index.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Website\\Index.cshtml",
+              "RelativeToolTip": "Views\\Website\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T08:58:09.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PayNow.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Website\\PayNow.cshtml",
+              "RelativeDocumentMoniker": "Views\\Website\\PayNow.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Website\\PayNow.cshtml",
+              "RelativeToolTip": "Views\\Website\\PayNow.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T03:13:26.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hover-min.css",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\wwwroot\\css\\hover-min.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\hover-min.css",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\wwwroot\\css\\hover-min.css",
+              "RelativeToolTip": "wwwroot\\css\\hover-min.css",
+              "ViewState": "AgIAAF4HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-03T18:27:54.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BuyNow.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Website\\BuyNow.cshtml",
+              "RelativeDocumentMoniker": "Views\\Website\\BuyNow.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Website\\BuyNow.cshtml",
+              "RelativeToolTip": "Views\\Website\\BuyNow.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T03:31:50.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Website\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Website\\Login.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Website\\Login.cshtml",
+              "RelativeToolTip": "Views\\Website\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALMAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T03:44:14.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "navbar.css",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\wwwroot\\css\\navbar.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\navbar.css",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\wwwroot\\css\\navbar.css",
+              "RelativeToolTip": "wwwroot\\css\\navbar.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-14T06:03:51.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAmwEcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T05:58:20.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Website\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "Views\\Website\\ForgotPassword.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Website\\ForgotPassword.cshtml",
+              "RelativeToolTip": "Views\\Website\\ForgotPassword.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T13:09:53.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Website\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "Views\\Website\\ResetPassword.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Website\\ResetPassword.cshtml",
+              "RelativeToolTip": "Views\\Website\\ResetPassword.cshtml",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAKwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T06:09:00.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Services\\EmailSender.cs",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Services\\EmailSender.cs",
+              "RelativeToolTip": "Services\\EmailSender.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T05:44:36.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "signup.cs",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Models\\signup.cs",
+              "RelativeDocumentMoniker": "Models\\signup.cs",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Models\\signup.cs",
+              "RelativeToolTip": "Models\\signup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:01:58.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Signup.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Website\\Signup.cshtml",
+              "RelativeDocumentMoniker": "Views\\Website\\Signup.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Website\\Signup.cshtml",
+              "RelativeToolTip": "Views\\Website\\Signup.cshtml",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAAwLgAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T05:30:28.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_WebsiteLayout.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Shared\\_WebsiteLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_WebsiteLayout.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Shared\\_WebsiteLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_WebsiteLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T13:22:55.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductDetails.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Website\\ProductDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Website\\ProductDetails.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Website\\ProductDetails.cshtml",
+              "RelativeToolTip": "Views\\Website\\ProductDetails.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T03:22:32.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Website\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "Views\\Website\\EditUser.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Website\\EditUser.cshtml",
+              "RelativeToolTip": "Views\\Website\\EditUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T12:55:20.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAE4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T15:04:19.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Collection.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Admin\\Collection.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Collection.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Admin\\Collection.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Collection.cshtml",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAJsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T16:06:07.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T09:11:15.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:34:17.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:44:05.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Website\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Website\\Profile.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Website\\Profile.cshtml",
+              "RelativeToolTip": "Views\\Website\\Profile.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T05:03:57.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Website\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "Views\\Website\\ChangePassword.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Website\\ChangePassword.cshtml",
+              "RelativeToolTip": "Views\\Website\\ChangePassword.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T13:37:42.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Invoice.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Admin\\Invoice.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Invoice.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Admin\\Invoice.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Invoice.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T15:15:19.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Topsales.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Admin\\Topsales.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Topsales.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Admin\\Topsales.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Topsales.cshtml",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAcwMQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T10:17:25.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Order.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Admin\\Order.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Order.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Admin\\Order.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Order.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T15:09:30.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderPlaced.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Website\\OrderPlaced.cshtml",
+              "RelativeDocumentMoniker": "Views\\Website\\OrderPlaced.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Website\\OrderPlaced.cshtml",
+              "RelativeToolTip": "Views\\Website\\OrderPlaced.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T16:40:32.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "order.cs",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Models\\order.cs",
+              "RelativeDocumentMoniker": "Models\\order.cs",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Models\\order.cs",
+              "RelativeToolTip": "Models\\order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:06:14.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "product.cs",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Models\\product.cs",
+              "RelativeDocumentMoniker": "Models\\product.cs",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Models\\product.cs",
+              "RelativeToolTip": "Models\\product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:41:28.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "registerv.css",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\wwwroot\\css\\registerv.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\registerv.css",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\wwwroot\\css\\registerv.css",
+              "RelativeToolTip": "wwwroot\\css\\registerv.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-09T03:38:25.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Website\\Products.cshtml",
+              "RelativeDocumentMoniker": "Views\\Website\\Products.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Website\\Products.cshtml",
+              "RelativeToolTip": "Views\\Website\\Products.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwGsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T05:46:11.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Admin\\Product.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Product.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Admin\\Product.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Product.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOwAAACZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T15:21:33.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Single.css",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\wwwroot\\css\\Single.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Single.css",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\wwwroot\\css\\Single.css",
+              "RelativeToolTip": "wwwroot\\css\\Single.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-08T05:55:42.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Models\\HomePage.cs",
+              "RelativeDocumentMoniker": "Models\\HomePage.cs",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Models\\HomePage.cs",
+              "RelativeToolTip": "Models\\HomePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:19:06.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ShoesCollection.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Admin\\ShoesCollection.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ShoesCollection.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Admin\\ShoesCollection.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ShoesCollection.cshtml",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAmwB8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T04:00:26.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Category.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Admin\\Category.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Category.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Admin\\Category.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Category.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T05:09:17.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "category.cs",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Models\\category.cs",
+              "RelativeDocumentMoniker": "Models\\category.cs",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Models\\category.cs",
+              "RelativeToolTip": "Models\\category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T04:51:46.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "shoescollection.css",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\wwwroot\\css\\shoescollection.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\shoescollection.css",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\wwwroot\\css\\shoescollection.css",
+              "RelativeToolTip": "wwwroot\\css\\shoescollection.css",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-03T04:49:11.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MensCollection.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Website\\MensCollection.cshtml",
+              "RelativeDocumentMoniker": "Views\\Website\\MensCollection.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Website\\MensCollection.cshtml",
+              "RelativeToolTip": "Views\\Website\\MensCollection.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T04:27:42.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MensCollection.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Admin\\MensCollection.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\MensCollection.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Admin\\MensCollection.cshtml",
+              "RelativeToolTip": "Views\\Admin\\MensCollection.cshtml",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAALgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T03:48:59.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "menscollection.cs",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Models\\menscollection.cs",
+              "RelativeDocumentMoniker": "Models\\menscollection.cs",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Models\\menscollection.cs",
+              "RelativeToolTip": "Models\\menscollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T04:29:16.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ShoesCollection.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Website\\ShoesCollection.cshtml",
+              "RelativeDocumentMoniker": "Views\\Website\\ShoesCollection.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Website\\ShoesCollection.cshtml",
+              "RelativeToolTip": "Views\\Website\\ShoesCollection.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAADwv0gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T15:51:17.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "topsales.cs",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Models\\topsales.cs",
+              "RelativeDocumentMoniker": "Models\\topsales.cs",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Models\\topsales.cs",
+              "RelativeToolTip": "Models\\topsales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:00:49.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "profile.css",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\wwwroot\\css\\profile.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\profile.css",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\wwwroot\\css\\profile.css",
+              "RelativeToolTip": "wwwroot\\css\\profile.css",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAFUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-31T05:11:59.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "slider.cs",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Models\\slider.cs",
+              "RelativeDocumentMoniker": "Models\\slider.cs",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Models\\slider.cs",
+              "RelativeToolTip": "Models\\slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:06:16.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "script.js",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\wwwroot\\js\\script.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\script.js",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\wwwroot\\js\\script.js",
+              "RelativeToolTip": "wwwroot\\js\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-12T05:02:18.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "NewArrival.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Admin\\NewArrival.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\NewArrival.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Admin\\NewArrival.cshtml",
+              "RelativeToolTip": "Views\\Admin\\NewArrival.cshtml",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAgwAUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T16:49:06.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "shoescollection.cs",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Models\\shoescollection.cs",
+              "RelativeDocumentMoniker": "Models\\shoescollection.cs",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Models\\shoescollection.cs",
+              "RelativeToolTip": "Models\\shoescollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T03:44:51.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "collection.cs",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Models\\collection.cs",
+              "RelativeDocumentMoniker": "Models\\collection.cs",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Models\\collection.cs",
+              "RelativeToolTip": "Models\\collection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:37:21.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Slider.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Admin\\Slider.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Slider.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Admin\\Slider.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Slider.cshtml",
+              "ViewState": "AgIAANwAAAAAAAAAAAAswOgAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T15:17:45.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "newarrival.cs",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Models\\newarrival.cs",
+              "RelativeDocumentMoniker": "Models\\newarrival.cs",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Models\\newarrival.cs",
+              "RelativeToolTip": "Models\\newarrival.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:17:52.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Admin\\Users.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Users.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Admin\\Users.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Users.cshtml",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAUwKUAAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T06:21:41.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AdminLogin.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Website\\AdminLogin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Website\\AdminLogin.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Website\\AdminLogin.cshtml",
+              "RelativeToolTip": "Views\\Website\\AdminLogin.cshtml",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAH0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T08:40:44.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "adminlayout.css",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\wwwroot\\css\\adminlayout.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\adminlayout.css",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\wwwroot\\css\\adminlayout.css",
+              "RelativeToolTip": "wwwroot\\css\\adminlayout.css",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwGsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-15T05:03:23.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "adminlogin.cs",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Models\\adminlogin.cs",
+              "RelativeDocumentMoniker": "Models\\adminlogin.cs",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Models\\adminlogin.cs",
+              "RelativeToolTip": "Models\\adminlogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:55:58.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T08:57:03.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T08:56:50.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T08:56:31.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\.Net VS\\Ecommerce\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "F:\\.Net VS\\Ecommerce\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T08:55:52.241Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

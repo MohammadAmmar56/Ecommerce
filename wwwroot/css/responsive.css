@@ -1,0 +1,45 @@
+@media only screen and (min-width: 0px) and (max-width:600px) {
+    .navbarr {
+        grid-template-columns: auto auto !important;
+        padding: 10px 5px !important;
+        height: auto;
+        /* padding-left: 0px !important; */
+    }
+
+    .searchh {
+        margin-top: 8px;
+        grid-column: 2;
+        grid-row: 2;
+        grid-column: 1/span 2;
+    }
+
+    .logoo h3 {
+        display: none;
+    }
+
+    .navbar-itemm {
+        /* margin-top: 10px; */
+        font-size: 11px;
+    }
+
+    .logoo-img {
+        margin: 0px;
+    }
+    .mySwiper{
+        height:40vh !important;
+    }
+    .swiper-slide .order{
+        font-size:18px !important;
+        top:5%;
+        width:auto;
+    }
+    .swiper-slide a{
+        padding:8px 18px !important;
+        font-size:12px !important;
+    }
+    .ggg{
+       display:none !important;
+    }
+}
+
+

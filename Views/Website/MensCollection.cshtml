@@ -1,0 +1,73 @@
+﻿@model IEnumerable<Ecommerce.Models.menscollection>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "_WebsiteLayout";
+}
+
+@section head {
+    <link href="~/css/shoescollection.css" rel="stylesheet" />
+}
+
+<a href="#item">
+<div class="shoes-header-image">
+        <img src="https://img.freepik.com/free-psd/banner-urban-fashion-template_23-2148652497.jpg" alt="">
+   @*  <h4>Buy Branded Shoes For <br>Men, Women & Kids At Up To 60% Off</h4> *@
+</div>
+</a>
+
+<div class="product-shoes-main-card" id="item">
+
+    @foreach (var x in Model)
+    {
+        <a href="#" style="text-decoration: none; color: black;" class="hvr-float ">
+            <div class="product-shoes-card">
+                <div class="product-shoes-image">
+                    <img src="~/menscollection/@x.image" alt="shoes..">
+                </div>
+
+                <div class="product-shoes-name">
+                    <h3>@x.name</h3>
+                </div>
+
+                <div class="product-shoes-price">
+                    <div class="pricee">
+
+                        <div class="product-shoes-price1">
+                            <p>₹@x.price1</p>
+                        </div>
+
+                        <div class="product-shoes-price2">
+                            <p>₹@x.price2</p>
+                        </div>
+
+                    </div>
+
+                    <div class="product-shoes-discount">
+                        <p>@x.discount% off</p>
+                    </div>
+
+                </div>
+
+                <div class="-shoes-star">
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star" style="color: gray;"></i>
+                </div>
+
+                <div class="shoes-buttons">
+                    <a href="#" class="shoes-buy-btn">Buy Now</a>
+                    <a href="#" class="shoes-cart-btn">Add <i class="fa-solid fa-cart-shopping"></i></a>
+                </div>
+
+            </div>
+        </a>
+
+    }
+
+
+
+</div>
